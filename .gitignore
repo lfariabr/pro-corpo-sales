@@ -1,0 +1,24 @@
+# Environment
+.env
+venv/
+
+# Streamlit
+.streamlit/
+.streamlit/secrets.toml
+
+# Cache
+__pycache__/
+*.pyc
+.cache/
+
+# Excel files
+*.xlsx
+*.xls
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
